@@ -1,0 +1,6 @@
+{
+  "name": "Israel Pimentel - Portfólio",
+  "description": "Website de apresentação de Israel Pimentel, Especialista em IA Generativa e Criador do canal Dica Top Dmais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
